@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=krisMG21&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+![](https://github.com/krisMG21/krisMG21/blob/main/files/github-contribution-grid-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
