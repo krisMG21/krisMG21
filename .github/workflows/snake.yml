@@ -39,12 +39,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - name: Move SVG files to files/ directory if not present
         run: |
-          if [ ! -f files/github-contribution-grid-snake.svg ]; then
-            mv dist/github-contribution-grid-snake.svg files/
-          fi
-          if [ ! -f files/github-contribution-grid-snake-dark.svg ]; then
-            mv dist/github-contribution-grid-snake-dark.svg files/
-          fi
+          mkdir -p files
+          mv dist/github-contribution-grid-snake.svg files/
+          mv dist/github-contribution-grid-snake-dark.svg files/
 
       - name: Commit and push changes
         run: |
