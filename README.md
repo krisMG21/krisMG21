@@ -25,7 +25,7 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisMG21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://my-stats-43gk.vercel.app/api?username=krisMG21&show_icons=true&theme=tokyonight&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150)
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krisMG21&theme=tokyonight&hide_border=false)
 
