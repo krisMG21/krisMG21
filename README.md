@@ -1,7 +1,7 @@
 ![](https://github.com/krisMG21/krisMG21/blob/main/files/github-contribution-grid-snake-dark.svg)
 
 # 💫 About Me:
-📚 Currently learning Computer Science at the [UAH](https://uah.es)<br>🔭 Working on a small language developing project, tutorial [here](https://lunacookies.github.io/lang/)<br>🌱 Learning Go, JavaScript, but mostly working with **Rust**<br>💡  Already got the hang of Python, C (and sons) and Java<br> ⚙️Well documented Neovim configuration [here](https://github.com/krisMG21/config.nvim)<br>🤝 Happy to contribute to any project of my scope
+📚 Currently learning Computer Science at the [UAH](https://uah.es)<br>💪 Going back to Blender baby <br>☯️ Try [zen browser](https://zen-browser.app), it's a very zen browser indeed :D<br>💡  You'll find class projects I'm currently working on, cause I don't bother putting them on private <br> ⚙️Well documented Neovim configuration [here](https://github.com/krisMG21/config.nvim)<br>🤝 Happy to contribute to any project of my scope
 
 
 ## 🌐 Socials:
